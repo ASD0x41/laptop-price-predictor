@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/laptop-price-predictor/static/css/main.1a8380bc.css",
+    "main.js": "/laptop-price-predictor/static/js/main.649c48af.js",
+    "static/js/453.ed3810f9.chunk.js": "/laptop-price-predictor/static/js/453.ed3810f9.chunk.js",
+    "static/media/razer.jpeg": "/laptop-price-predictor/static/media/razer.e9a4c892a99c743301db.jpeg",
+    "static/media/lenovo.webp": "/laptop-price-predictor/static/media/lenovo.b78f952eb99d3517d36e.webp",
+    "static/media/7.jpg": "/laptop-price-predictor/static/media/7.585a3d62cd8c991b4d7e.jpg",
+    "static/media/dell.jpeg": "/laptop-price-predictor/static/media/dell.7ee6c105f224c551e65c.jpeg",
+    "static/media/apple.jpg": "/laptop-price-predictor/static/media/apple.e3a354113e38e0917d75.jpg",
+    "static/media/asus.webp": "/laptop-price-predictor/static/media/asus.d1aa5ffd46a0c9183fbb.webp",
+    "static/media/hp.jpeg": "/laptop-price-predictor/static/media/hp.b562800948a408dd0e3a.jpeg",
+    "static/media/acer.webp": "/laptop-price-predictor/static/media/acer.52c2b4c7f9c7dacd23b1.webp",
+    "index.html": "/laptop-price-predictor/index.html",
+    "main.1a8380bc.css.map": "/laptop-price-predictor/static/css/main.1a8380bc.css.map",
+    "main.649c48af.js.map": "/laptop-price-predictor/static/js/main.649c48af.js.map",
+    "453.ed3810f9.chunk.js.map": "/laptop-price-predictor/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8380bc.css",
+    "static/js/main.649c48af.js"
+  ]
+}
