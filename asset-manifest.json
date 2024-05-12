@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/laptop-price-predictor/static/css/main.1a8380bc.css",
-    "main.js": "/laptop-price-predictor/static/js/main.649c48af.js",
+    "main.js": "/laptop-price-predictor/static/js/main.e3626deb.js",
     "static/js/453.ed3810f9.chunk.js": "/laptop-price-predictor/static/js/453.ed3810f9.chunk.js",
     "static/media/razer.jpeg": "/laptop-price-predictor/static/media/razer.e9a4c892a99c743301db.jpeg",
     "static/media/lenovo.webp": "/laptop-price-predictor/static/media/lenovo.b78f952eb99d3517d36e.webp",
@@ -13,11 +13,11 @@
     "static/media/acer.webp": "/laptop-price-predictor/static/media/acer.52c2b4c7f9c7dacd23b1.webp",
     "index.html": "/laptop-price-predictor/index.html",
     "main.1a8380bc.css.map": "/laptop-price-predictor/static/css/main.1a8380bc.css.map",
-    "main.649c48af.js.map": "/laptop-price-predictor/static/js/main.649c48af.js.map",
+    "main.e3626deb.js.map": "/laptop-price-predictor/static/js/main.e3626deb.js.map",
     "453.ed3810f9.chunk.js.map": "/laptop-price-predictor/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8380bc.css",
-    "static/js/main.649c48af.js"
+    "static/js/main.e3626deb.js"
   ]
 }
